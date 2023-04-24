@@ -18,7 +18,7 @@ The predictions made by the trained models are compared with the actual closing 
 ## **Project Files**
 The project includes the following main files:
 
-**stock_price_prediction.ipynb**: Jupyter notebook containing the main code for data preprocessing, model training, and evaluation.
+**Stock Price Prediction Deep Learning.ipynb**: Jupyter notebook containing the main code for data preprocessing, model training, and evaluation.
 
 **README.md**: This file providing project overview, instructions, and details.
 
